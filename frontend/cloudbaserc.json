@@ -1,0 +1,7 @@
+{
+    "name": "silver-frontend",
+    "framework": "vite",
+    "buildCommand": "npm run build",
+    "outputDir": "dist",
+    "installCommand": "npm install"
+}
